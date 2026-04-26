@@ -143,6 +143,20 @@ Application accessible at:
 ```
 http://EC2_PUBLIC_IP:5000
 ```
+---
+## 📸 Screenshots
+
+### Terraform Apply
+![Terraform](screenshots/terraform-output.png)
+
+### EC2 Instance
+![EC2](screenshots/ec2-instance.png)
+
+### Ansible Execution
+![Ansible](screenshots/ansible-play.png)
+
+### NGINX Output
+![NGINX](screenshots/nginx-output.png)
 
 ---
 
